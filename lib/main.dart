@@ -1,8 +1,8 @@
-import 'package:ayush_plant_idenification_app/view/Pages/OnBoardingScreen.dart';
+import 'package:ayush_plant_idenification_app/view/Screens/OnBoardingScreen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
-  runApp(AyushApp());
+  runApp(const AyushApp());
 }
 
 class AyushApp extends StatelessWidget {
